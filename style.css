@@ -1,0 +1,32 @@
+#title{
+    background-color: rgb(21, 145, 167);
+    color: rgb(255, 253, 253);
+    font-family: sans-serif;
+    display: flex;
+    text-align: left;
+    height: fit-content;
+    
+}
+body{
+    background-color: rgba(113, 175, 216, 0.445);
+    background-image: url(naruto-itachi-sharingan-eyes-wallpaper-preview.jpg);
+    background-size: cover;
+    color: aliceblue;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+#i{
+color: inherit; color: rgb(29, 236, 150);
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.hindi-song{
+    display: flex;
+}
+#ii{
+    color: rgb(228, 144, 76);
+}
