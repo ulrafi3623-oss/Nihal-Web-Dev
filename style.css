@@ -1,12 +1,20 @@
 #title{
-    background-color: rgb(21, 145, 167);
-    color: rgb(255, 253, 253);
     font-family: sans-serif;
     display: flex;
     text-align: left;
     height: fit-content;
-    
+    border: 2px solid blue;
+    border-radius: 10px;
+    padding: 2px;
+    box-shadow: 0 0 10px #e712cb;
+     color: #00ffff;
+  text-shadow: 0 0 5px #6200ff,
+               0 0 40px #1100ff,
+               0 0 25px #6f00ff,
+               0 0 20px #3700ff;
 }
+   
+    
 body{
     background-color: rgba(113, 175, 216, 0.445);
     background-image: url(naruto-itachi-sharingan-eyes-wallpaper-preview.jpg);
@@ -16,17 +24,60 @@ body{
     background-repeat: no-repeat;
     text-align: left;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
-    
 }
+
+h1{
+   color: #00ffff;
+  text-shadow: 0 0 5px #00ffff,
+               0 0 40px #00ffff,
+               0 0 25px #00ffff,
+               0 0 20px #00ffff;
+}
+
 #i{
 color: inherit; color: rgb(29, 236, 150);
 font-family: Georgia, 'Times New Roman', Times, serif;
+text-shadow: 0 0 5px #258b22,
+               0 0 10px #088018,
+               0 0 20px #ffffff,
+               0 0 40px #ffffff;
 }
 
 .hindi-song{
     display: flex;
+    width: 300px;
+    border: 2px solid #00ff40;
+    border-radius: 550cap;
+    padding: 1px;
+    box-shadow: 0 0 10px #00ffff;
 }
 #ii{
-    color: rgb(228, 144, 76);
+    color: rgb(255, 0, 242);
+  
+  text-shadow: 0 0 5px #c41fae,
+               0 0 10px #da0e8b,
+               0 0 20px #ffffff,
+               0 0 40px #ffffff;
+}
+.yt{
+    border: 20px;
+    border-radius: 9px;
+    box-shadow: 0 0 10px rgb(69, 197, 214);
+    padding: 1px;
+    
+}
+.link-name{
+    color: #00ffff;
+  text-shadow: 0 0 5px #00ffff,
+               0 0 9px #00ffff,
+               0 0 15px #00ffff,
+               0 0 20px #00ffff;
+}
+.links{
+    color: #b61781;
+  text-shadow: 0 0 20px #df25d5,
+               0 0 40px #ce147a,
+               0 0 40px #eb2bdb,
+               0 0 40px #ee20c1;
+}
 }
