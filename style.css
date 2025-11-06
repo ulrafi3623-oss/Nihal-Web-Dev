@@ -64,6 +64,7 @@ text-shadow: 0 0 5px #258b22,
     border-radius: 9px;
     box-shadow: 0 0 10px rgb(69, 197, 214);
     padding: 1px;
+    margin: 1px;
     
 }
 .link-name{
@@ -81,9 +82,12 @@ text-shadow: 0 0 5px #258b22,
                0 0 40px #ee20c1;
 }
 .video{
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 170px;
     display: flex;
-    border: 2px solid blue;
+    border: 2px solid rgb(27, 241, 213);
+    margin: 1px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px blue;
 }
 
