@@ -84,9 +84,9 @@ text-shadow: 0 0 5px #258b22,
 .video{
     height: 300px;
     width: 170px;
-    display: flex;
+    display: -moz-stack;
     border: 2px solid rgb(27, 241, 213);
-    margin: 1px;
+    margin: 5px;
     border-radius: 20px;
     box-shadow: 0 0 10px blue;
 }
