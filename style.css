@@ -12,12 +12,14 @@
                0 0 40px #1100ff,
                0 0 25px #6f00ff,
                0 0 20px #3700ff;
+    background-repeat: no-repeat;
+
 }
    
     
 body{
     background-color: rgba(113, 175, 216, 0.445);
-    background-image: url(naruto-itachi-sharingan-eyes-wallpaper-preview.jpg);
+    background-image: url(naruto-itachi-sharingan-eyes-wallpaper-preview-min.jpg);
     background-size: cover;
     color: aliceblue;
     background-attachment: fixed;
@@ -88,6 +90,6 @@ text-shadow: 0 0 5px #258b22,
     border: 2px solid rgb(27, 241, 213);
     margin: 5px;
     border-radius: 20px;
-    box-shadow: 0 0 10px blue;
+    
 }
 
