@@ -81,8 +81,8 @@ text-shadow: 0 0 5px #258b22,
                0 0 40px #ee20c1;
 }
 .video{
-    height: 300px;
-    width: 170px;
+    height: 100px;
+    width: 100px;
     display: flex;
     border: 2px solid blue;
 }
