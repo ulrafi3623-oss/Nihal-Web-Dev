@@ -95,5 +95,8 @@ text-shadow: 0 0 5px #258b22,
 
 .description{
     color: rgba(34, 216, 248);
-    padding: 2px
+    padding: 2px;
+    font-size: 22px;
+    
+}   
     
