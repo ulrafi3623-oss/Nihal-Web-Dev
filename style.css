@@ -6,12 +6,7 @@
     border: 2px solid blue;
     border-radius: 10px;
     padding: 2px;
-    box-shadow: 0 0 10px #e712cb;
      color: #00ffff;
-  text-shadow: 0 0 5px #6200ff,
-               0 0 40px #1100ff,
-               0 0 25px #6f00ff,
-               0 0 20px #3700ff;
     background-repeat: no-repeat;
 
 }
@@ -30,19 +25,11 @@ body{
 
 h1{
    color: #00ffff;
-  text-shadow: 0 0 5px #00ffff,
-               0 0 40px #00ffff,
-               0 0 25px #00ffff,
-               0 0 20px #00ffff;
 }
 
 #i{
 color: inherit; color: rgb(29, 236, 150);
 font-family: Georgia, 'Times New Roman', Times, serif;
-text-shadow: 0 0 5px #258b22,
-               0 0 10px #088018,
-               0 0 20px #ffffff,
-               0 0 40px #ffffff;
 }
 
 .audio{
@@ -51,38 +38,27 @@ text-shadow: 0 0 5px #258b22,
     border: 2px solid #00ff40;
     border-radius: 550cap;
     padding: 1px;
-    box-shadow: 0 0 10px #00ffff;
 }
 #ii{
     color: rgb(255, 0, 242);
-  
-  text-shadow: 0 0 5px #c41fae,
-               0 0 10px #da0e8b,
-               0 0 20px #ffffff,
-               0 0 40px #ffffff;
 }
+
 .yt{
     border: 20px;
     border-radius: 9px;
-    box-shadow: 0 0 10px rgb(69, 197, 214);
     padding: 1px;
     margin: 1px;
+    border: 2px solid #a4a8e2;
     
 }
 .link-name{
     color: #00ffff;
-  text-shadow: 0 0 5px #00ffff,
-               0 0 9px #00ffff,
-               0 0 15px #00ffff,
-               0 0 20px #00ffff;
 }
+
 .links{
     color: #b61781;
-    text-shadow: 0 0 20px #df25d5,
-               0 0 40px #ce147a,
-               0 0 40px #eb2bdb,
-               0 0 40px #ee20c1;
 }
+
 .video{
     height: 300px;
     width: 170px;
@@ -94,7 +70,7 @@ text-shadow: 0 0 5px #258b22,
 }
 
 .description{
-    color: rgba(34, 216, 248);
+    color: rgb(222, 241, 137);
     padding: 2px;
     font-size: 22px;
     
